@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)http://www.tecvalles.mx/web/index.php?option=com_content&view=article&id=26 -->
+<html lang="es-es" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--	<meta name="viewport" content="width=device-width, initial-scale=1.0" />    DESACTIVADO para que funcione bien Menú en celulares-->
+  <meta content="width=device-width">  <!-- ASÍ SE AJUSTA SITIO A MÚLTIPLES dispositivos y el menú sigue funcionando -->
+  
+	<!--<base href="http://www.tecvalles.mx/web/index.php">--><base href=".">
+	<meta name="author" content="Super User">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Instituto Tecnológico de Ciudad Valles</title>
+	<link href="http://www.tecvalles.mx/web/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="./Instituto Tecnológico de Ciudad Valles_files/template.css" rel="stylesheet">
+	<link href="./Instituto Tecnológico de Ciudad Valles_files/tecnm.css" rel="stylesheet">
+	<link href="./Instituto Tecnológico de Ciudad Valles_files/css" rel="stylesheet">
+	<style>
+
+	h1, h2, h3, h4, h5, h6, .site-title {
+		font-family: 'Open Sans', sans-serif;
+	}
+	body.site {
+		border-top: 3px solid #0088cc;
+		background-color: #f4f6f7;
+	}
+	a {
+		color: #0088cc;
+	}
+	.nav-list > .active > a,
+	.nav-list > .active > a:hover,
+	.dropdown-menu li > a:hover,
+	.dropdown-menu .active > a,
+	.dropdown-menu .active > a:hover,
+	.nav-pills > .active > a,
+	.nav-pills > .active > a:hover,
+	.btn-primary {
+		background: #0088cc;
+	}
+	</style>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/jquery.min.js.descarga"></script>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/jquery-noconflict.js.descarga"></script>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/jquery-migrate.min.js.descarga"></script>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/caption.js.descarga"></script>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/bootstrap.min.js.descarga"></script>
+	<script src="./Instituto Tecnológico de Ciudad Valles_files/template.js.descarga"></script>
+	<!--[if lt IE 9]><script src="/web/media/jui/js/html5.js?00b9cd8f2ac5bff9e6014fc5624477ec"></script><![endif]-->
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+</head>
+<body class="site com_content view-article no-layout no-task">
+	<!-- Body -->
+	<div class="body" id="top">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="http://www.tecvalles.mx/web/">
+						<img src="./Instituto Tecnológico de Ciudad Valles_files/header.jpg" alt="Instituto Tecnológico de Ciudad Valles">											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="element-invisible">Cambiar navegación</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						
+
+<div class="custom">
+	<div class="navbar navbar-static-top " id="mainMenu">
+	<div class="navbar-inner">
+		<div class="containermenu">
+			<a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse"> </a>
+			<div class="nav-collapse collapse center">
+				
+                                    <ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web">Inicio </a>
+						<ul class="dropdown-menu">
+							
+						</ul>
+					</li>
+				</ul>
+                                      <ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web/index.php#">Instituto </a>
+						<ul class="dropdown-menu">
+   <li>	<a href="https://drive.google.com/drive/folders/1rhdGGbnM4C--hymDl5V4If-DmN2pYaLe?usp=sharing" target="_blank">SGI</a></li>
+
+<!-- <li><a href="/web/index.php?option=com_content&view=article&id=47">SGA</a></li>    -->
+
+<li><a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=39">MEG</a></li>	
+
+ <li class="divider">&nbsp;</li>						
+<li>
+								<a href="https://drive.google.com/file/d/189ZpU5YG6WuiVb7cs1bNaNH7u2QOuqUX/view?usp=sharing" target="_blank">PIID 2013-2018</a></li>                                                        
+ <li>
+								<a href="https://drive.google.com/file/d/1hiEwvqW1uYuVILJpkZ5yBDNfnkvPc96Q/view?usp=sharing" target="_blank">RDC 2014-2017</a></li>
+ <li>
+								<a href="https://drive.google.com/file/d/17CUUjHP9tmqwViUyGVutJbBUBQV7O6dO/view" target="_blank">MAPA DE RIESGOS EN ITCV </a></li>
+
+                                                        
+                                                         <li class="divider">&nbsp;</li>
+							<!--<li>
+								<a href="https://docs.google.com/forms/d/1LHfe3NhkqsxNE7gA4q-yjJ77dny4sxxbLkltPgOX6Pk/viewform" target="_blank">Buz&oacute;n</a></li> -->
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=2">Mensaje del Director</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=3">Historia</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=4">Valores </a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=5">Logo-Escudo oficial</a></li>
+							
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php/organigrama">Organigrama</a></li>
+							
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=6">Ubicación</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=45" target="_self">MIDE</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/descargas/instituto/prontuario.pdf" target="_blank">Prontuario</a></li>
+                                                        
+                                                        <li>
+								<a href="http://www.tecvalles.mx/web/descargas/instituto/calendariotec.pdf" target="_blank">Calendario Oficial</a></li>
+                                                    
+						</ul>
+					</li>
+				</ul>
+				<ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web/index.php#">Oferta </a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=7">Ing. en Sistemas Computacionales</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=8">Ing. Industrial</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=9">Ing. en Gestión Empresarial</a></li>
+                                                          <li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=46">Ing. en Gestión Empresarial Mixta</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=10">Ing. en Industrias Alimentarias</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=11">Ing. Ambiental</a></li>
+                                                        
+                                                                                                                      
+                                                           <li class="dropdown-submenu">
+                                                             <a href="http://www.tecvalles.mx/web/index.php#">Posgrado</a>								
+								<ul class="dropdown-menu">
+									<li><a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=42">Maestría en Ingeniería</a></li>
+                                                           
+								</ul>
+					              <!--  <li class="divider">&nbsp;</li>
+                                                        <li><a href="https://drive.google.com/file/d/1hnxzsZcScUISpq8AbdIxQXR2fq0tLC0F/view" target="_blank">Requisitos y fechas de ingreso 2018</a></li> -->
+                                     </li></ul>
+					</li>
+				</ul>
+
+<ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web/index.php#">Vinculación </a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=24">Servicio Social</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=25">Visitas a empresas</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=40">Bolsa de Trabajo</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=38">Servicios Externos</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=35">Convocatorias</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=26">Incubadora de Empresas</a></li>
+                                                         <li>
+								<a href="http://goo.gl/forms/WfMN147S1b" target="_blank">Encuesta a Egresados</a></li>
+                                                        
+                                                        <li class="divider">&nbsp;</li>  
+                                                              
+                                                     <li class="dropdown-submenu">
+ 
+								<a href="http://www.tecvalles.mx/web/index.php#">  Programa de Lengua Extranjera </a>
+
+                                                                 <ul class="dropdown-menu">
+									<li>
+										<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=29">Objetivo</a></li>
+								 	<li>
+								               <a href="https://goo.gl/forms/7MRGFuEED700fx5z1" target="_blank">Encuesta Lenguas Extranjeras</a></li>
+
+                                                                 </ul>
+                                                      </li>                                         
+                                                          
+						</ul>
+					</li>
+				</ul>
+
+				<ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web/index.php#">División </a>
+						<ul aria-labelledby="dropdownMenu" class="dropdown-menu multi-level" role="menu">
+							<li>
+								<a href="http://192.99.204.36/sistema/" target="_blank">SII</a></li>
+							<li class="divider">
+								&nbsp;</li>
+							 
+                                                       <!-- <li>
+								<a href="/web/index.php?option=com_content&view=article&id=30">Cursos de Verano</a></li> -->
+                                                         <li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=43">Lineamientos</a></li> 
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=28">Reinscripciones</a></li> 
+                                                 <li>
+								<a href="http://www.tecvalles.mx/web/descargas/instituto/manual_estudiante.pdf" target="_blank">Manual del Estudiante</a></li>
+														
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=12">Residencias Profesionales</a></li>
+							
+							<li>
+								<a href="http://www.tecvalles.mx/web/descargas/tabulador.pdf" target="_blank">Tabulador Créd. Complem.</a></li>
+							<li class="divider">
+								&nbsp;</li>
+							<li class="dropdown-submenu">
+                                                                   <a href="http://www.tecvalles.mx/web/index.php#">Titulación</a>								
+
+								<ul class="dropdown-menu">
+									<li>
+										<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=31">Programas por competencias</a></li>
+<li>
+										<a href="http://www.tecvalles.mx/web/index.php/titulacion-para-planes-que-no-son-por-competencias">Programas que no son por competencias</a></li>
+									<li>
+										<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=32">Trámites</a></li>
+									<li>
+										<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=33">Títulos y Cédulas Profesionales</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				
+
+
+
+<ul class="nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="http://www.tecvalles.mx/web/index.php#">Escolares </a>
+						<ul class="dropdown-menu">
+                                                        <li>
+							     <a href="https://drive.google.com/file/d/0B7eBy84PU5b3ZXBSLWRBN1VoWE0/view?usp=sharing" target="_blank">Reglamento Alumnos</a></li>							
+                                                        <li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=34">Avisos</a></li>
+                                                    
+                                                         <li><a href="https://drive.google.com/file/d/1ZF7eN1JGq8R5CwM7ixuBTjxCuGpt6Ybi/view?usp=sharing" target="_blank">Proceso de Inscripción</a>
+
+					<!--   <li><a href="/web/index.php?option=com_content&view=article&id=36">Proceso de Inscripci&oacute;n</a></li> -->
+							</li><li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=35">Becas y Convocatorias</a></li>
+							
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=37">Cuotas</a></li>
+							<li>
+								<a href="http://www.tecvalles.mx/web/index.php?option=com_content&amp;view=article&amp;id=23">Centro de Información</a></li>
+							<li class="divider">
+								&nbsp;</li>
+							<!--<li class="dropdown-submenu">
+								<a href="/web/index.php/component/content/?id=37&amp;Itemid=160" tabindex="-1">Extraescolares</a>
+								<ul class="dropdown-menu">
+									<li>
+										<a href="/web/index.php/component/content/?id=78&amp;Itemid=98">Futbol</a></li>
+									<li>
+										<a href="/web/index.php/component/content/?id=77&amp;Itemid=99">Basquetbol</a></li>
+									<li>
+										<a href="/web/index.php/component/content/?id=76&amp;Itemid=100">Beisbol</a></li>
+									<li>
+										<a href="/web/index.php?id=79">Voleibol</a></li>
+									<li>
+										<a href="/web/index.php/component/content/?id=119&amp;Itemid=134">Rondallas</a></li>
+									<li>
+										<a href="/web/index.php/component/content/?id=117&amp;Itemid=136">Danza</a></li>
+									<li>
+										<a href="/web/index.php/component/content/?id=118&amp;Itemid=135">Edecanes</a></li>
+								</ul>
+							</li>-->
+						</ul>
+					</li>
+				</ul>
+				
+				
+			</div>
+		</div>
+	</div>
+</div></div>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="es-ES">
+	
+		
+						
+		
+	
+	
+		
+									<div itemprop="articleBody">
+		<h1 class="parrafosj" style="margin: 0px; font-family: SoberanaTitular; font-weight: normal; line-height: 40px; color: #497f43; text-rendering: optimizeLegibility; font-size: 30px; text-transform: uppercase; padding: 5px 0px; clear: both; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-align: center;">ECOSISTEMA DE EMPRENDIMIENTO E INNOVACIÓN DEL INSTITUTO TECNOLÓGICO DE CIUDAD VALLES.</h1>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">La participación colaborativa y articulada de las instituciones educativas, los centros de investigación, los tres niveles de gobierno, entidades financieras, empresarios, organizaciones de la sociedad y población objetivo, como principales agentes del ecosistema debe propiciar la generación de la cultura emprendedora, la innovación y la generación de valor en beneficio de la sociedad, hecho fehaciente que destaca como urgente en la economía del conocimiento.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">&nbsp;En ese sentido, el TECNOLÓGICO NACIONAL DE MÉXICO&nbsp; trabaja en diversos programas institucionales de formación de emprendedores, cuyo objetivo principal es fomentar el talento emprendedor entre los estudiantes de los institutos tecnológicos, con vertientes en la generación de emprendedores innovadores independientes, intra-emprendedores y emprendedores sociales, para confluir en la generación de valor a la sociedad.&nbsp;&nbsp; Desarrollar el talento emprendedor, en articulación con la incubación de empresas y la transferencia de tecnología a las empresas teniendo como ingrediente clave la innovación, permitirá construir un ecosistema de innovación sostenible en el TECNOLÓGICO NACIONAL DE MÉXICO, que contribuya a generar riqueza y bienestar social en cada uno de los rincones del país.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<h2 style="margin: 10px 0px; font-family: SoberanaTitular; font-weight: normal; line-height: 40px; color: #ba2025; text-rendering: optimizeLegibility; font-size: 18px; text-transform: uppercase; clear: both; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-align: justify;"><span style="color: #a5273f; font-size: 14pt;"><span style="font-family: georgia, serif;">Modelo Talento Emprendedor.</span></span></h2>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Objetivo: Fomentar en el estudiante del TECNOLÓGICO NACIONAL DE MÉXICO la cultura emprendedora e impulsar la generación de empresarios independientes, intraemprendedores&nbsp; y emprendedores sociales.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">El Curso Taller Modelo Talento Emprendedor del TECNOLÓGICO NACIONAL DE MÉXICO está integrado por 3 fases la primera, que es de introspección, tiene la intención de concientizar al participante de sus habilidades, capacidades, actitudes y valores, además de motivarlo a emprender consciente de su entorno. La segunda Fase es formativa, en su transitar el participante tendrá acceso a técnicas y herramientas para despertar la creatividad, además de las nuevas metodologías para la creación de Modelos de Negocio basados en la innovación; y la tercera Fase es vivencial, pues está integrada con la participación en conferencias con actores clave del ecosistema emprendedor, y alberga además un reto de la elaboración de un Pitch de la innovación a emprender y que llevará al estudiante a aplicar los aprendizajes de las fases anteriores. Actividad complementaria a 2 créditos.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">&nbsp;</span></p>
+<h2 style="margin: 10px 0px; font-family: SoberanaTitular; font-weight: normal; line-height: 40px; color: #ba2025; text-rendering: optimizeLegibility; font-size: 18px; text-transform: uppercase; clear: both; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-align: justify;"><span style="color: #a5273f; font-size: 14pt;"><span style="font-family: georgia, serif;">Evento&nbsp; Nacional&nbsp; Estudiantil de Innovación Tecnológica (ENEIT).</span></span></h2>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Objetivo: Desarrollar proyectos disruptivos o incrementales que fortalezcan las competencias creativas, emprendedoras e innovadoras de los participantes a través de la transferencia tecnológica y comerialización, dando respuesta a las necesidades de los sectores estratégicos del país.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">El ENEIT es un evento que podrán participar todos los estudiantes del Tecnológico Nacional de México (TecNM) de los niveles de licenciatura y posgrado&nbsp; inscritos oficialmente en el periodo&nbsp; actual.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Las categorías de participación de los proyectos de Innovación Tecnológica son las siguientes:</span></p>
+<ul>
+<ul>
+<ol>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Producto/Servicio</span></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Proceso</span></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Mercadotecnia/Organización</span></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Innovación Social</span></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Retos Empresariales</span></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;">Aplicaciones móviles</span></li>
+</ol>
+</ul>
+</ul>
+<h2 style="margin: 10px 0px; font-family: SoberanaTitular; font-weight: normal; line-height: 40px; color: #ba2025; text-rendering: optimizeLegibility; font-size: 18px; text-transform: uppercase; clear: both; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-align: justify;">&nbsp;</h2>
+<h2 style="margin: 10px 0px; font-family: SoberanaTitular; font-weight: normal; line-height: 40px; color: #ba2025; text-rendering: optimizeLegibility; font-size: 18px; text-transform: uppercase; clear: both; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-align: justify;"><span style="color: #a5273f; font-size: 14pt;"><span style="font-family: georgia, serif;">Incubadora de empresas.</span></span></h2>
+<p style="text-align: justify;"><span style="font-size: 14pt;">El Instituto Tecnológico de Ciudad Valles en alianza con Estrategas en Desarrollo Empresarial empresa reconocida ante el INADEM, como Incubadora de Negocios Básico, buscan impulsar la creación de nuevas empresas y el fortalecimiento de&nbsp; la micro, pequeña y mediana empresa de estudiantes y egresados del Instituto;&nbsp; ofreciendo servicios de consultoría y capacitación empresarial&nbsp; para el fortaleciendo sus capacidades a través de la atención de consultores profesionales y altamente capacitados. Bajo el siguiente modelo de incubación: Metodología de intervención basado en un Modelo atención Mixto&nbsp; (Presencial y Virtual) apoyados con un&nbsp; Programa de&nbsp; Incubación en Línea del INADEM y metodología propia de incubación, para el desarrollo del modelo de negocios, llevando a cabo sesiones grupales e individuales de&nbsp; Asesoría, Capacitación y Gestión, de manera presencial y virtual, para desarrollar las Habilidades Empresariales que los emprendedores requieren para iniciar o&nbsp; fortalecer las actividades de sus nuevas o actuales empresas, bajo un esquema de formalidad, apoyo y&nbsp; financiamiento del INADEM.</span></p>	</div>
+
+	
+							</div>
+
+					
+					<!-- End Content -->
+				</main>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr>
+			
+			<p class="pull-right">
+				<a href="http://www.tecvalles.mx/web/index.php#top" id="back-top">
+					Volver arriba				</a>
+			</p>
+			<p>
+				© 2019 Instituto Tecnológico de Ciudad Valles			</p>
+		</div>
+	</footer>
+	
+
+
+</body></html>
