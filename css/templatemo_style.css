@@ -289,11 +289,11 @@ hr {
 .logo-wrapper a {
   display: inline-block;
   overflow: hidden;
-  padding-left: 220px;/*modificacion TECNM*/
+  padding-left: 180px;/*modificacion TECNM*/
   line-height: 108px;/*modificacion TECNM*/
   text-transform: uppercase;
-  color: cornflowerblue;
-  font-size:40px;/*modificacion tamaño*/
+  color:blue;
+  font-size:32px;/*modificacion tamaño*/
   font-weight: 700;/*modificacion grosor de letra*/
 }
 
@@ -302,7 +302,7 @@ hr {
   margin: 0 11px;/*modificacion separacion en el menu*/
 }
 .main-menu ul li:last-child {
-  margin-right: 80px;/*modificacion separacion en el menu*/
+  margin-right: 50px;/*modificacion separacion en el menu*/
 }
 .main-menu ul li a {
   text-transform: uppercase;
