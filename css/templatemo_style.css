@@ -293,16 +293,16 @@ hr {
   line-height: 108px;/*modificacion TECNM*/
   text-transform: uppercase;
   color:blue;
-  font-size:32px;/*modificacion tamaño*/
-  font-weight: 700;/*modificacion grosor de letra*/
+  font-size:28px;/*modificacion tamaño*/
+  font-weight: 680;/*modificacion grosor de letra*/
 }
 
 .main-menu ul li {
   display: inline-block;
-  margin: 0 11px;/*modificacion separacion en el menu*/
+  margin: 0 10px;/*modificacion separacion en el menu*/
 }
 .main-menu ul li:last-child {
-  margin-right: 50px;/*modificacion separacion en el menu*/
+  margin-right: 40px;/*modificacion separacion en el menu*/
 }
 .main-menu ul li a {
   text-transform: uppercase;
